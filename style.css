@@ -1,3 +1,10 @@
+*
+{
+	background-color: pink;
+	color: white;
+    font-family: Calibri;
+}
+
 #container
 {
 	margin: 0 30px;
@@ -6,7 +13,7 @@
 
 #header
 {
-	background: #ccc;
+	background: pink;
 	padding: 20px;
 }
 
@@ -62,7 +69,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: white;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -88,7 +95,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: pink;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
